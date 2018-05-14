@@ -2,29 +2,25 @@
 ## Super Catchy Slogan
 
 Group members: 
-* Apple
-* Banana
-* Char Kway Teow
+* Izaac Tay
+* Charl Ton Teo
 
-Feel free to change the headers, but do address the points raised. 
+
 
 ## Audience
-Whose problems are we trying to solve?
+People with limited photography knowledge
 
 ## Problems
-What problems are people facing?
-How are these already being solved?
-
+What makes a good group or portrait photo? Maybe you know, but do your friends know? IS there uncertainty and dread when you ask them to help you take a photo only for them to botch it up completely? This app aims to be your perfec compainion to ideal group and portrait photo composition. 
 ## Solution
-What’s your solution, in one sentence? 
-Can you find an analogy to describe it? 
+An application that instructs the user on how best to frame the image. 
 
 ## Assumptions
-What assumptions are we making that the project depends on?
+People want aesthetic photos
+
 
 ## Unique Selling Point
-Our version will succeed because
+Our app will focus on correct framing for group and portrait photos.
 
 ## Competitors
-What competitors are there? List 5. Surely you can google 5.
-Why are we better or different?
+Camera 51
